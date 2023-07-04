@@ -158,7 +158,7 @@
 
 - **AGCN: Adversarial Graph Convolutional Network for Cross-Modal Retrieval**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/9411880)
 
-- **ALGCN: Adaptive Label-Aware Graph Convolutional Networks for Cross-Modal Retrieval**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/9508809) [[Code]](https://github.com/LivXue/ALGCN)
+- **ALGCN: Adaptive Label-Aware Graph Convolutional Networks for Cross-Modal Retrieval**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/9508809)
 
 - **HGE: Cross-Modal Retrieval with Heterogeneous Graph Embedding**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3503161.3548195)
 
