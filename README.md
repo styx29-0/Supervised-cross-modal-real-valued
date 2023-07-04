@@ -18,7 +18,7 @@
 
 ### 2015
 
-- **ml-CCA: Multi-Label Cross-modal Retrieval**  [[PDF]](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Ranjan_Multi-Label_Cross-Modal_Retrieval_ICCV_2015_paper.html)
+- **ml-CCA: Multi-Label Cross-modal Retrieval**  [[PDF]](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Ranjan_Multi-Label_Cross-Modal_Retrieval_ICCV_2015_paper.html) [[Code]](https://github.com/Viresh-R/ml-CCA)
 
 ### 2014
 
@@ -26,7 +26,7 @@
 
 ### 2012
 
-- **GMA: Generalized Multiview Analysis: A Discriminative Latent Space**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/6247923)
+- **GMA: Generalized Multiview Analysis: A Discriminative Latent Space**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/6247923) [[Code]](https://github.com/huyt16/Twitter100k/tree/master/code/GMA-CVPR2012)
 
 ## Dictionary Learning
 
@@ -54,7 +54,7 @@
 
 ### 2016
 
-- **JFSSL: Joint Feature Selection and Subspace Learning for Cross-Modal Retrieval**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/7346492)
+- **JFSSL: Joint Feature Selection and Subspace Learning for Cross-Modal Retrieval**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/7346492) [[Code]](https://github.com/2012013382/JFSSL-Cross-Modal-Retrieval)
 
 - **MDCR: Modality-Dependent Cross-Media Retrieval**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/2775109)
 
@@ -62,7 +62,7 @@
 
 ### 2013
 
-- **JGRHML: Heterogeneous Metric Learning with Joint Graph Regularization for Cross-Media Retrieval**  [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/8464)
+- **JGRHML: Heterogeneous Metric Learning with Joint Graph Regularization for Cross-Media Retrieval**  [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/8464) [[Code]](https://github.com/PKU-ICST-MIPL/JGRHML_AAAI2013)
 
 - **LCFS: Learning Coupled Feature Spaces for Cross-modal Matching**  [[PDF]](https://openaccess.thecvf.com/content_iccv_2013/html/Wang_Learning_Coupled_Feature_2013_ICCV_paper.html)
 
@@ -110,19 +110,19 @@
 
 ### 2019
 
-- **DSCMR: Deep Supervised Cross-modal Retrieval**  [[PDF]](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.html)
+- **DSCMR: Deep Supervised Cross-modal Retrieval**  [[PDF]](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.html) [[Code]](https://github.com/penghu-cs/DSCMR)
 
 - **SAM: Cross-Modal Subspace Learning with Scheduled Adaptive Margin Constraints**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3343031.3351030)
 
 ### 2017
 
-- **deep-SM: Cross-Modal Retrieval With CNN Visual Features: A New Baseline**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/7428926)
+- **deep-SM: Cross-Modal Retrieval With CNN Visual Features: A New Baseline**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/7428926) [[Code]](https://github.com/zh-plus/CMR-CNN-New-Baseline)
 
 - **CCL: Cross-modal Correlation Learning With Multigrained Fusion by Hierarchical Network**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/8013822)
 
 - **MSFN: Cross-media Retrieval by Learning Rich Semantic Embeddings of Multimedia**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3123266.3123369)
 
-- **MNiL: Multi-Networks Joint Learning for Large-Scale Cross-Modal Retrieval**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3123266.3123317)
+- **MNiL: Multi-Networks Joint Learning for Large-Scale Cross-Modal Retrieval**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3123266.3123317) [[Code]](https://github.com/liangzhang1407/Multi-Networks-Joint-Learning-for-Large-Scale-Cross-Modal-Retrieval)
 
 ### 2016
 
@@ -138,19 +138,19 @@
 
 ### 2022
 
-- **JFSE: Joint Feature Synthesis and Embedding: Adversarial Cross-Modal Retrieval Revisited**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/9296975)
+- **JFSE: Joint Feature Synthesis and Embedding: Adversarial Cross-Modal Retrieval Revisited**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/9296975) [[Code]](https://github.com/CFM-MSG/Code_JFSE)
 
 ### 2021
 
-- **AACR: Augmented Adversarial Training for Cross-Modal Retrieval**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/9057710)
+- **AACR: Augmented Adversarial Training for Cross-Modal Retrieval**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/9057710) [[Code]](https://github.com/yiling2018/aacr)
 
 ### 2018
 
-- **CM-GANs: Cross-modal Generative Adversarial Networks for Common Representation Learning**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3284750)
+- **CM-GANs: Cross-modal Generative Adversarial Networks for Common Representation Learning**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3284750) [[Code]](https://github.com/PKU-ICST-MIPL/CM-GANS_TOMM2019)
 
 ### 2017
 
-- **ACMR: Adversarial Cross-Modal Retrieval**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3123266.3123326)
+- **ACMR: Adversarial Cross-Modal Retrieval**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3123266.3123326) [[Code]](https://github.com/cuishuhao/ACMR)
 
 ## Graph Model
 
@@ -158,7 +158,7 @@
 
 - **AGCN: Adversarial Graph Convolutional Network for Cross-Modal Retrieval**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/9411880)
 
-- **ALGCN: Adaptive Label-Aware Graph Convolutional Networks for Cross-Modal Retrieval**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/9508809)
+- **ALGCN: Adaptive Label-Aware Graph Convolutional Networks for Cross-Modal Retrieval**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/9508809) [[Code]](https://github.com/LivXue/ALGCN)
 
 - **HGE: Cross-Modal Retrieval with Heterogeneous Graph Embedding**  [[PDF]](https://dl.acm.org/doi/abs/10.1145/3503161.3548195)
 
